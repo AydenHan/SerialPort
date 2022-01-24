@@ -1,0 +1,10 @@
+D:\programmer\C#\SerialPort\SerialPort\SerialPort\bin\Debug\SerialPort.exe.config
+D:\programmer\C#\SerialPort\SerialPort\SerialPort\bin\Debug\SerialPort.exe
+D:\programmer\C#\SerialPort\SerialPort\SerialPort\bin\Debug\SerialPort.pdb
+D:\programmer\C#\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.csprojAssemblyReference.cache
+D:\programmer\C#\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.SerialPort.resources
+D:\programmer\C#\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.Properties.Resources.resources
+D:\programmer\C#\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.GenerateResource.cache
+D:\programmer\C#\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.csproj.CoreCompileInputs.cache
+D:\programmer\C#\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.exe
+D:\programmer\C#\SerialPort\SerialPort\SerialPort\obj\Debug\SerialPort.pdb
